@@ -1,7 +1,3 @@
-### **Creating a README for Your Secure Journal System**  
-Here’s a well-structured **README.md** for your project.  
-
----
 
 ## 📝 **Secure Journal System**  
 
