@@ -29,8 +29,8 @@ Before you begin, ensure you have the following installed:
 ### **2️⃣ Clone the Repository**
 First, navigate to your desired directory and clone the project:  
 ```bash
-git clone https://github.com/yourusername/secure-journal.git
-cd secure-journal
+git clone https://github.com/drona-gyawali/ChronoLock.git
+cd ChronoLock
 ```
 
 ---
