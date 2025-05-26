@@ -6,7 +6,7 @@ CFLAGS = -Wall -Wextra -pedantic -std=c11 -g
 LDFLAGS = -lssl -lcrypto
 
 # Source files
-SRCS = file.c
+SRCS = journal.c
 OBJS = $(SRCS:.c=.o)
 
 # Executable name

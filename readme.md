@@ -14,6 +14,14 @@ The goal is to ensure privacy and security while maintaining an easy-to-use inte
 
 ---
 
+## **CLI - Registration**
+>![Screenshot from 2025-05-26 17-44-16](https://github.com/user-attachments/assets/15796384-c8f2-486d-a7b6-95a5bb338f5c)
+
+## **After Login - Journal Writing**
+>![Screenshot from 2025-05-26 17-44-04](https://github.com/user-attachments/assets/f850d579-0e89-43f0-a7a4-c5db9f08f57d)
+
+
+
 ## 🛠 **Setup & Installation**  
 
 ### **1️⃣ Prerequisites**  
