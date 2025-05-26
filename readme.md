@@ -1,16 +1,16 @@
+> Note: This project was created as part of my first semester coursework for the subject "Programming with C." Therefore, external contributions are not being accepted.
+##  **Secure Journal System**  
 
-## 📝 **Secure Journal System**  
-
-🔒 **A command-line based journal system where users can register, log in, and create encrypted journal entries using AES-256 encryption.**  
-💡 The goal is to ensure privacy and security while maintaining an easy-to-use interface.
+**A command-line based journal system where users can register, log in, and create encrypted journal entries using AES-256 encryption.**  
+The goal is to ensure privacy and security while maintaining an easy-to-use interface.
 
 ---
 
-## 📌 **Features**  
-✅ **User Registration & Login** – Secure authentication system.  
-✅ **Create Encrypted Journal Entries** – Uses **AES-256-CBC** encryption for privacy.  
-✅ **Read Journal Entries** – Automatically decrypts when accessed by the owner.  
-✅ **Secure File Storage** – Journal entries are stored in a structured format.  
+##  **Features**  
+**User Registration & Login** – Secure authentication system.  
+**Create Encrypted Journal Entries** – Uses **AES-256-CBC** encryption for privacy.  
+**Read Journal Entries** – Automatically decrypts when accessed by the owner.  
+**Secure File Storage** – Journal entries are stored in a structured format.  
 
 ---
 
@@ -59,7 +59,7 @@ make clean
 
 ---
 
-## 🔐 **How It Works**
+## **How It Works**
 ### **1️⃣ User Registration**  
 - The system asks for a **username and password**.
 - If the user is **new**, they get **registered**.
@@ -71,32 +71,3 @@ make clean
 - Users retrieve their entries, and the system **decrypts them** in real-time.
 
 ---
-
-## 📢 **Contributing**
-🛠 Want to improve this project? Contributions are welcome! Follow these steps:  
-1. **Fork** the repository  
-2. **Create** a new branch:  
-   ```bash
-   git checkout -b feature-name
-   ```
-3. **Make changes & commit**:  
-   ```bash
-   git commit -m "Added feature X"
-   ```
-4. **Push changes & submit a pull request**:  
-   ```bash
-   git push origin feature-name
-   ```
-
----
-
-## 📜 **License**
-🔓 **MIT License** – Feel free to use and modify this project.  
-
----
-
-### **🚀 Start Using the Secure Journal System Today!**  
-Got questions? Open an issue or contribute! 🎉🔥  
-
----
-
