@@ -6,11 +6,11 @@ CFLAGS = -Wall -Wextra -pedantic -std=c11 -g
 LDFLAGS = -lssl -lcrypto
 
 # Source files
-SRCS = journal.c
+SRCS = Journal.c
 OBJS = $(SRCS:.c=.o)
 
 # Executable name
-TARGET = journal
+TARGET = Journal
 
 # Default rule to compile everything
 all: $(TARGET)
